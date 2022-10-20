@@ -1,7 +1,11 @@
 task3
+
 ![img_4.png](src/main/resources/img_4.png)
+
 (таблица в базе данных  с данными из файла logins.csv)
+
 ![img_1.png](src/main/resources/img_1.png)
+
 (таблица в базе данных  с данными из файла postings.csv)
 
 
